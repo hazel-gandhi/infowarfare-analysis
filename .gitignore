@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+nmr_chart_by_status_stacked_custom.png
+nmr_chart_by_status_stacked_custom.svg
+.DS_Store
 
 # C extensions
 *.so
